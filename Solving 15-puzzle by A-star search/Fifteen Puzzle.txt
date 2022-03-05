@@ -1,0 +1,15 @@
+AI OFFLINE:
+
+INPUTs:
+1. Initial state
+2. Goal state
+
+TASKs:
+1. check if solvable
+2. if solvable then A* search (by both heuristics)
+
+OUTPUTs:
+1. cost (কয়বার swap করা লাগসে)
+2. Path (from initial to goal)
+3. Time taken by A* search (2 heuristic এ সময় তুলনা করতা)
+4. Explored nodes count (কয়টা node PQ-তে দিস)

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="310c2d51-af41-411c-98b0-42102aa43393" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YcRP2CPCEud1Lb5xGKNeujsePb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Dummy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dummy" />
+      <module name="1605042" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hamington" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hamington" />
+      <module name="1605042" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="1605042" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manhattan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manhattan" />
+      <module name="1605042" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="1605042" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Hamington" />
+        <item itemvalue="Application.Manhattan" />
+        <item itemvalue="Application.Dummy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="310c2d51-af41-411c-98b0-42102aa43393" name="Default Changelist" comment="" />
+      <created>1583239868258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583239868258</updated>
+      <workItem from="1583239871836" duration="12134000" />
+      <workItem from="1583254938460" duration="3699000" />
+      <workItem from="1583294974493" duration="3081000" />
+      <workItem from="1583301354413" duration="2273000" />
+      <workItem from="1583385094818" duration="1704000" />
+      <workItem from="1583409142626" duration="1555000" />
+      <workItem from="1583436790953" duration="419000" />
+      <workItem from="1583546412962" duration="2859000" />
+      <workItem from="1583549365319" duration="1338000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1583249499657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583249499657" />
+    <state width="1202" height="289" key="GridCell.Tab.0.bottom" timestamp="1583550752161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="289" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583550752161" />
+    <state width="1202" height="289" key="GridCell.Tab.0.center" timestamp="1583550752161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="289" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583550752161" />
+    <state width="1202" height="289" key="GridCell.Tab.0.left" timestamp="1583550752161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="289" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583550752161" />
+    <state width="1202" height="289" key="GridCell.Tab.0.right" timestamp="1583550752161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="289" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583550752161" />
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom" timestamp="1583254905727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583254905727" />
+    <state width="1202" height="185" key="GridCell.Tab.1.center" timestamp="1583254905727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1583254905727" />
+    <state width="1202" height="185" key="GridCell.Tab.1.left" timestamp="1583254905727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1583254905727" />
+    <state width="1202" height="185" key="GridCell.Tab.1.right" timestamp="1583254905727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1202" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1583254905727" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1583253614172">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583253614172" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1583249128696">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1583249128696" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1605042$Hamington.ic" NAME="Hamington Coverage Results" MODIFIED="1583409789318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
