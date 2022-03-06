@@ -1,6 +1,6 @@
 # Line of Action
 
-Designed UI and write move logic using adversarial search (Minimax algorithm) with alpha-beta pruning.
+Designed UI and wrote move logic using adversarial search (Minimax algorithm) with alpha-beta pruning.
 
 #### Provision to play
 
